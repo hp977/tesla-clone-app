@@ -39,5 +39,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+    //  This means that the application being developed should be tested and optimized to work correctly on the latest versions of these three browsers.
   }
 }
